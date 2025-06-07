@@ -19,7 +19,8 @@ A simple Tic-Tac-Toe game built with HTML, CSS, and JavaScript.
 - `app.js` – Game logic
 
 ## Screenshot
-![Tic-Tac-Toe Screenshot](1.png)(2.png)
+![Tic-Tac-Toe Screenshot](1.png)
+![Tic-Tac-Toe Screenshot](2.png)
 ---
 
 Feel free to fork or improve this project!
